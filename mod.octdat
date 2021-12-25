@@ -1,0 +1,300 @@
+{
+    id Oct.Commands.Types.FightFire
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.FightActorFire
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Attack
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Build
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Rebuild
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Dismantle
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Crate
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Uncrate
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.MoveProp
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Cut
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Harvest
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Forage
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Haul
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Loot
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Store
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Move
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Plant
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Clean
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Till
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Retill
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Repair
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Weed
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Tan
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Craft
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Milk
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Feed
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Soothe
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Transport
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Herd
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Slaughter
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Tame
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.GatherStone
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.GatherWood
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Mine
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Salvage
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Hunt
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Butcher
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Cook
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Collect
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.CollectFrom
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Treat
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Bury
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.TrainMelee
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.TrainRanged
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Research
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Capture
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Imprison
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Intimidate
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Restrain
+    type CommandType
+
+    guestsHelp = true
+}
+{
+    id Oct.Commands.Types.Refuel
+    type CommandType
+
+    guestsHelp = true
+}
